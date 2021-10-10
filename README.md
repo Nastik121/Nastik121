@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nastik121
-- 👀 I’m interested in GIS, GeoDataScience, DataScience, Big Data
-- 🌱 I’m currently learning Data Science and Big Data
-- 💞️ I’m looking to collaborate on GeoDataScience projects, where are applied analysis geo data. 
+- 👋 Hi, I’m Anastasiia
+- 👀 I’m interested in GIS, SpatialDataScience, DataScience, Big Data
+- 🌱 I’m currently learning SpatialDataScience, Data Science and Big Data
+- 💞️ I’m looking to collaborate on SpatialDataScience,  projects, where are applied analysis geo data. 
 - 📫 How to reach me nastikgis.usatu@gmail.com
 
 <!---
